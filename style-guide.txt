@@ -1,0 +1,8 @@
+logo background color
+hex 78f4b5
+rbg 120 244 181
+
+logo dark main color (text and fork thingy)
+hex 0c8079
+rgb 12 128 121
+
