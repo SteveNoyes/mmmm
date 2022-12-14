@@ -1,20 +1,11 @@
 /* Colors */
 :root {
-  logo background color
-hex 78f4b5
-rbg 120 244 181
-
-logo dark main color (text and fork thingy)
-hex 0c8079
-rgb 12 128 121
-
-main blue 
-hex 5b9bc9
-rgb 91 155 201
-
-accent purple
-hex 5d4586
-rgb 93 69 134
+  /* logo background color */
+  --logo-bg: rbg (120, 244, 181);
+  /* logo dark main color (text and fork thingy) */
+  --dark-logo-bg: rgb (12, 128, 121);
+  --main-blue: rgb (91, 155, 201);
+  --accent-purple: rgb (93, 69, 134);
 }
 
 /* Is this thing on */
