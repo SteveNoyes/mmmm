@@ -9,7 +9,7 @@
   --white: rgb(255, 255, 255);
 }
 
-/* Is this thing on */
+/* font-weights: 300, 400, 500, 600, 700 */
 * {
   font-family: 'Bitter', sans-serif, monospace;
   font-size: 16px;

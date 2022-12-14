@@ -11,8 +11,6 @@
 
 ## Overview
 
-
-
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -30,11 +28,10 @@
 
 ### Built with
 
-- HTML5 markup
+- HTML5
 - CSS  
-- Flexbox
-- Vanilla JavaScript
 - Mobile-first workflow
+- Vanilla JavaScript
 
 ### Featured Section
 
