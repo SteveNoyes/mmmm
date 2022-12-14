@@ -1,3 +1,6 @@
+font 'bitter'
+font-weight 300, 400, 500, 600, 700
+
 logo background color
 hex 78f4b5
 rbg 120 244 181
@@ -6,5 +9,7 @@ logo dark main color (text and fork thingy)
 hex 0c8079
 rgb 12 128 121
 
-
+main blue 
+hex 5b9bc9
+rgb 91 155 201
 
