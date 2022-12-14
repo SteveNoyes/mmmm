@@ -13,3 +13,6 @@ main blue
 hex 5b9bc9
 rgb 91 155 201
 
+accent purple
+hex 5d4586
+rgb 93 69 134
