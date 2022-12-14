@@ -23,8 +23,8 @@
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/mmmm)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/mmmm/)
 
 ## My process
 
@@ -59,5 +59,5 @@
 ## Author
 
 - Website - [Portfolio](https://www.stevenmnoyes.com)
-- Frontend Mentor - [@SteveNoyes](https://www.frontendmentor.io/profile/SteveNoyes)
+
 - GitHub - [SteveNoyes](https://github.com/SteveNoyes)
