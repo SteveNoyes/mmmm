@@ -1,11 +1,12 @@
 /* Colors */
 :root {
   /* logo background color */
-  --logo-bg: rbg (120, 244, 181);
+  --logo-bg: rgb(120, 244, 181);
   /* logo dark main color (text and fork thingy) */
-  --dark-logo-bg: rgb (12, 128, 121);
-  --main-blue: rgb (91, 155, 201);
-  --accent-purple: rgb (93, 69, 134);
+  --dark-logo-bg: rgb(12, 128, 121);
+  --main-blue: rgb(91, 155, 201);
+  --accent-purple: rgb(93, 69, 134);
+  --white: rgb(255, 255, 255);
 }
 
 /* Is this thing on */

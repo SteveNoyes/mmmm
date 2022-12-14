@@ -50,11 +50,9 @@
 
 ### Useful resources
 
-- [How to Center a Div](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. 
+- [text generator](https://baconipsum.com/) - A Meatier Lorem Ipsum Generator.
 
-- [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
-
-- [text spacing](https://www.w3schools.com/css/css_text_spacing.asp) - Spacing for the top header was made easier with this.
+- [one must imagine sisyphus happy](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - My perennial google. 
 
 ## Author
 
