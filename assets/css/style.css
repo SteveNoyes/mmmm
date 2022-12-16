@@ -8,13 +8,11 @@
   --accent-purple: rgb(93, 69, 134);
   --white: rgb(255, 255, 255);
 }
-
 /* font-weights: 300, 400, 500, 600, 700 */
 * {
   font-family: 'Bitter', sans-serif, monospace;
   font-size: 16px;
 }
-
 /* Bootstrap */
 /* Nav Bar */
 
@@ -26,8 +24,6 @@ body {
 .navbar {
   margin-bottom: 20px;
 }
-
-
 
 .bd-placeholder-img {
   font-size: 1.125rem;
